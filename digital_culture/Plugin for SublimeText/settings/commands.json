@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["ctrl+shift+f2"],
+        "command": "convert_number"
+    }
+]

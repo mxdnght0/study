@@ -1,0 +1,6 @@
+add_subdirectory(tabulate)
+add_subdirectory(Wstr)
+add_subdirectory(YandexApi)
+add_subdirectory(TimeConverter)
+add_subdirectory(ArgParser)
+add_subdirectory(CacheLib)
